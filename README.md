@@ -39,11 +39,4 @@ in this project mongoDB is used for database.
 
 # Steps for opening the project
 
-1 Install dependencies
-`npm install`
-
-2 Run in development
-`npm run dev`
-
-3 Run in production
-`npm start`
+The app is deployed on `Heroku`. It's URL is **https://ancient-meadow-34488.herokuapp.com/**.
